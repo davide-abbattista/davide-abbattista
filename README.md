@@ -14,4 +14,4 @@
 
 ## Contacts
 
-[Linkedin](https://www.linkedin.com/in/davide-abbattista/) · [Github](https://github.com/davide-abbattista)
+[Linkedin](https://www.linkedin.com/in/davide-abbattista/) · [Google Scholar](https://scholar.google.com/citations?user=_rLTubkAAAAJ)
