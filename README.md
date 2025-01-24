@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Davide Abbattista
 
-* I hold a Master’s degree in Computer Science Engineering from Polytechnic of Bari, with a focus on Artificial Intelligence and Data Science.
-* During my academic journey, I collaborated in teams on several projects, honing my expertise in fields like Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Recommender Systems.
-* I completed a research period at the University of Glasgow, culminating in my master’s thesis. This work led to the publication of a paper accepted at RecSys ‘24. Additionally, as part of a team of master’s students, I participated in the RecSys Challenge ’24, with our contributions being accepted for publication.
-* My primary programming language is Python, and I have extensive experience working with the PyTorch ML library.
+* I am a Data and Artificial Intelligence Researcher with a Master’s degree in Computer Science Engineering from the Polytechnic of Bari, specializing in Artificial Intelligence and Data Science. During my academic journey, I collaborated on several team projects, sharpening my skills in AI, Machine Learning, Deep Learning, Data Science, and Recommender Systems.
+* As part of my master’s program, I completed a research period at the University of Glasgow, where I developed my thesis on Deep Learning. This research culminated in a paper published at RecSys ’24. Additionally, my team’s contributions to the RecSys Challenge ’24 were accepted for publication, reflecting our innovative work in recommender systems.
+* My technical expertise centers on Python as my primary programming language, with extensive experience using the PyTorch ML library for developing and optimizing advanced machine learning models. I am passionate about leveraging AI technologies to tackle complex real-world challenges and am eager to contribute to innovative projects in this dynamic field.
 
 ## Contacts
 
